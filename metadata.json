@@ -1,0 +1,6 @@
+{
+  "name": "TaskPulse",
+  "description": "Android task killer and app stopper supporting both rooted (am force-stop / PID kill) and non-rooted (background process killer, usage telemetry, and guided Force-Stop Queue) devices across Android versions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

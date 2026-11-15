@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskPulse</string>
+    <string name="nav_monitor">Monitor</string>
+    <string name="nav_whitelist">Protected</string>
+    <string name="nav_diagnostics">System</string>
+    <string name="cd_app_icon">Application icon</string>
+    <string name="cd_stop_app">Stop application</string>
+    <string name="cd_protect_app">Toggle app protection</string>
+    <string name="cd_refresh">Refresh processes</string>
+    <string name="cd_clear_search">Clear search</string>
+</resources>
